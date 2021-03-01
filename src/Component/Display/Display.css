@@ -1,0 +1,9 @@
+.player_container,
+.selected_container{
+    background-color: #fff;
+    border-radius: 7px;
+    box-shadow: 3px 6px 20px #ff634775;
+    border: 1px solid #ff634761;
+    height: 530px;
+    overflow-x: hidden;
+}

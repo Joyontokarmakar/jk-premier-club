@@ -1,0 +1,13 @@
+.heading nav{
+    box-shadow: 1px 5px 37px 15px #ff634754;
+    border-bottom: 1px solid #ff6347;
+    margin: 10px 20px 0 20px;
+}
+
+.club_name{
+    text-shadow: 5px 2px 13px #ff6347;
+    font-size: 27px;
+    font-weight: 700;
+    color: #fff !important;;
+    -webkit-text-stroke: 2px #ff6347;
+}
